@@ -12,9 +12,7 @@ print(my_set)
 my_set.remove(5);
 print(my_set);
 my_set.pop()
-print(my_set)
-
-frozenset(my_set)
+print(my_set);
 
 
 
